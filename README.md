@@ -6,7 +6,6 @@
 
 <p>
   <a href="https://github.com/sibirajsm0813-collab"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -20,7 +19,7 @@
 
 I'm an **Information Technology student** focused on building practical software, strengthening my programming fundamentals, and turning real-world problems into useful digital solutions.
 
-I enjoy working across **Java, Python, C, SQL, web development, databases, and data structures & algorithms**. My projects often combine software engineering with ideas around automation, safety, agriculture, and smart systems.
+I enjoy working across **Python, C, SQL, web development, databases, and data structures & algorithms**. My projects often combine software engineering with ideas around automation, safety, agriculture, and smart systems.
 
 - 🎓 Information Technology student at **Erode Sengunthar Engineering College**
 - 💻 Interested in **Software Development, Databases, Cloud, and Full-Stack Web Development**
@@ -35,7 +34,6 @@ I enjoy working across **Java, Python, C, SQL, web development, databases, and d
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -83,7 +81,7 @@ A farmer-focused marketplace concept connecting crop information, pricing insigh
 
 ```text
 DSA ────────────────████████░░
-Java ───────────────████████░░
+Python ─────────────████████░░
 SQL & DBMS ─────────████████░░
 Web Development ────████████░░
 Cloud Fundamentals ─██████░░░░
